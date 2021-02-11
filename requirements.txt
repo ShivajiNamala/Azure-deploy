@@ -13,3 +13,4 @@ keras==2.4.3
 tensorflow==2.4.1
 gevent==21.1.2
 h5py==2.10.0
+pillow==8.1.0
