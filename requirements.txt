@@ -1,0 +1,15 @@
+certifi==2020.12.05
+click==7.1.2
+flask==1.1.2
+itsdangerous==1.1.0
+jinja2==2.11.3
+markupsafe==1.1.1
+werkzeug==1.0.1
+numpy==1.19.5
+scipy==1.6.0
+pandas==1.0.1
+joblib==1.0.1
+keras==2.4.3
+tensorflow==2.4.1
+gevent==21.1.2
+h5py==3.1.0
